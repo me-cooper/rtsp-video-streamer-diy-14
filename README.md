@@ -1,2 +1,1 @@
-# rtsp-video-streamer-diy-14
-YouTube Video: https://youtu.be/1xZ-0UGiUsY
+It's a fork from: https://github.com/bnbe-club
